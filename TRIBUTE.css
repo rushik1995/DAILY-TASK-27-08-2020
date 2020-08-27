@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #F0EDED;
+}
+
+li{
+  text-align: left;
+}
+
+h5{
+  text-align: left;
+  margin-left: 36px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: red;
+}
+
+h4{
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+h1{
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+#h1{
+  text-align: center;
+}
+
+a:link{
+  color: blue;
+  text-decoration: none;
+}
+a:visited{
+  color: pink;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  color: lightblue;
+
+}
+a:active{
+  color: yellow;
+  text-decoration: none;
+}
